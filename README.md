@@ -9,7 +9,14 @@
 [![GitHub Followers](https://img.shields.io/github/followers/jbendezuponce-lang?style=social)](https://github.com/jbendezuponce-lang)
 [![GitHub Stars](https://img.shields.io/github/stars/jbendezuponce-lang?style=social)](https://github.com/jbendezuponce-lang)
 
-  
+
+## 🎬 Mi presentación profesional
+
+Conoce más sobre mí, mi formación académica y mi pasión por la tecnología e innovación.
+
+https://github.com/jbendezuponce-lang/jbendezuponce-lang/issues/1#issue-5967446456
+
+   
 
 Soy estudiante de Ingeniería de Sistemas e Informática en la **Universidad Tecnológica del Perú (UTP)** (perteneciente al décimo superior). Tengo conocimientos sólidos en herramientas tecnológicas, facilidad para el trabajo en equipos multidisciplinarios y aptitud para la gestión de proyectos. Mi objetivo es participar activamente en proyectos de tecnología, investigación, ciencia e innovación para generar un impacto positivo y sostenible en nuestro entorno.
 
