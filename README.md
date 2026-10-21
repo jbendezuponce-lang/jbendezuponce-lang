@@ -58,14 +58,14 @@ Soy estudiante de Ingeniería de Sistemas e Informática en la **Universidad Tec
 ---
 
 ## 🏆 Certificaciones Destacadas
-- **Google Cloud:** Prompt Design in Vertex AI Skill Badge[cite: 4], Introduction to Vertex AI Studio[cite: 4], Introduction to Large Language Models[cite: 4], Gemini for DevOps Engineers[cite: 5, 6].
-- **Oracle:** Cloud Infrastructure 2025 Certified AI Foundations Associate[cite: 2, 3].
-- **IBM:** Cybersecurity Fundamentals[cite: 2].
-- **MoureDev:** Python desde cero[cite: 1], Java y Programación Orientada a Objetos (POO) desde cero[cite: 1], Bash/Shell, terminal y línea de comandos desde cero[cite: 1, 2].
-- **Alteryx:** Machine Learning Fundamentals Micro-Credential[cite: 5], Alteryx Foundational Micro-Credential[cite: 5, 6].
-- **freeCodeCamp:** Foundational C# with Microsoft[cite: 6].
-- **Santander Open Academy & BIG school:** Fundamentos de Chatgpt[cite: 3], Python[cite: 3, 4], Iniciación al Desarrollo con IA[cite: 2].
-- **Corporación Grupo Romero:** Word Intermedio[cite: 3].
+- **Google Cloud:** Prompt Design in Vertex AI Skill Badge, Introduction to Vertex AI Studio, Introduction to Large Language Models, Gemini for DevOps Engineers.
+- **Oracle:** Cloud Infrastructure 2025 Certified AI Foundations Associate.
+- **IBM:** Cybersecurity Fundamentals.
+- **MoureDev:** Python desde cero, Java y Programación Orientada a Objetos (POO) desde cero, Bash/Shell, terminal y línea de comandos desde cero.
+- **Alteryx:** Machine Learning Fundamentals Micro-Credential, Alteryx Foundational Micro-Credential.
+- **freeCodeCamp:** Foundational C# with Microsoft.
+- **Santander Open Academy & BIG school:** Fundamentos de Chatgpt, Python, Iniciación al Desarrollo con IA.
+- **Corporación Grupo Romero:** Word Intermedio.
 
 ---
 
