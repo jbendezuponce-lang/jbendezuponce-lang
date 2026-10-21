@@ -9,24 +9,6 @@
 [![GitHub Followers](https://img.shields.io/github/followers/jbendezuponce-lang?style=social)](https://github.com/jbendezuponce-lang)
 [![GitHub Stars](https://img.shields.io/github/stars/jbendezuponce-lang?style=social)](https://github.com/jbendezuponce-lang)
 
-
-
-## 🎬 Conoce mi perfil en 30 segundos
-
-<p align="center">
-  <a href="showreel_jheremy_github.mp4">
-    <img src="portada_jheremy_github.jpg"
-         alt="Video de presentación de Jheremy Bendezu"
-         width="620">
-  </a>
-</p>
-
-<p align="center">
-  <a href="showreel_jheremy_github.mp4">
-    ▶️ Reproducir mi presentación profesional
-  </a>
-</p>
-
   
 
 Soy estudiante de Ingeniería de Sistemas e Informática en la **Universidad Tecnológica del Perú (UTP)** (perteneciente al décimo superior). Tengo conocimientos sólidos en herramientas tecnológicas, facilidad para el trabajo en equipos multidisciplinarios y aptitud para la gestión de proyectos. Mi objetivo es participar activamente en proyectos de tecnología, investigación, ciencia e innovación para generar un impacto positivo y sostenible en nuestro entorno.
